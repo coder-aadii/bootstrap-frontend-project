@@ -1,0 +1,90 @@
+[
+  {
+    "id": "0",
+    "name": "Schweppes Tonic",
+    "image-url": "https://res.cloudinary.com/deoegf9on/image/upload/v1753162963/schweppes-tonic_ghma2z.png",
+    "price": "₹150",
+    "desc": "Fresh energetic drink.",
+    "type": "drinks"
+  },
+  {
+    "id": "1",
+    "name": "Cleopatra",
+    "image-url": "https://res.cloudinary.com/deoegf9on/image/upload/v1753162962/caesar_fztebc.jpg",
+    "price": "₹350",
+    "desc": "Fillet Of Sea Bream On A Bed Of Prawns, Shrimps, Mushrooms, Basil Leaves, Zucchinis",
+    "type": "speciality"
+  },
+  {
+    "id": "2",
+    "name": "Caesar Salad",
+    "image-url": "https://res.cloudinary.com/deoegf9on/image/upload/v1753162963/spinach-salad_xixdao.jpg",
+    "price": "₹220",
+    "desc": "Heart of Lettuce, Cherry Tomatoes, Grilled Chicken, Parmesan.",
+    "type": "salads"
+  },
+  {
+    "id": "3",
+    "name": "Fresh Orange Juice",
+    "image-url": "https://res.cloudinary.com/deoegf9on/image/upload/v1753162962/juice_ksrbwd.jpg",
+    "price": "₹90",
+    "desc": "Energising orange juice with no added sugar.",
+    "type": "drinks"
+  },
+  {
+    "id": "4",
+    "name": "Burratta Salad",
+    "image-url": "https://res.cloudinary.com/deoegf9on/image/upload/v1753162963/burrata-salad_sll4ox.jpg",
+    "price": "₹320",
+    "desc": "Burrata, Arugula, Cherry Tomatoes, Balsamic Vinegar, Virgin Olive Oil, Dried Tomatoes",
+    "type": "salads"
+  },
+  {
+    "id": "5",
+    "name": "Mojito",
+    "image-url": "https://res.cloudinary.com/deoegf9on/image/upload/v1753162963/mojito_ltlfnq.jpg",
+    "price": "₹180",
+    "desc": "Tangy and refreshing Mint Mojito",
+    "type": "drinks"
+  },
+  {
+    "id": "6",
+    "name": "Beffy",
+    "image-url": "https://res.cloudinary.com/deoegf9on/image/upload/v1753162963/nut-salad_j4jrgp.jpg",
+    "price": "₹310",
+    "desc": "Tomato Sauce, Ground Meat, Garlic, Chili Flakes, Parsley.",
+    "type": "salads"
+  },
+  {
+    "id": "7",
+    "name": "Mango Lassi",
+    "image-url": "https://res.cloudinary.com/deoegf9on/image/upload/v1753164438/Mango-Lassi-08589-819x1024_ccjykt.webp",
+    "price": "₹70",
+    "desc": "Refreshing yogurt-based drink blended with ripe mangoes and a hint of cardamom.",
+    "type": "drinks"
+  },
+  {
+    "id": "8",
+    "name": "white Souce Pasta",
+    "image-url": "https://res.cloudinary.com/deoegf9on/image/upload/v1753162962/juicy_d8drap.jpg",
+    "price": "₹540",
+    "desc": "Creamy pasta tossed in a rich white sauce with herbs and vegetables.",
+    "type": "speciality"
+  },
+  {
+    "id": "9",
+    "name": "Red Souce Pasta",
+    "image-url": "https://res.cloudinary.com/deoegf9on/image/upload/v1753162962/cleopatra_lxrpqe.jpg",
+    "price": "₹560",
+    "desc": "Pasta cooked in a tangy tomato-based red sauce with fresh herbs and spices.",
+    "type": "speciality"
+  },
+  {
+    "id": "10",
+    "name": "Munchirian Noodles",
+    "image-url": "https://res.cloudinary.com/deoegf9on/image/upload/v1753162962/juice_pe6dzj.webp",
+    "price": "₹330",
+    "desc": "Stir-fried noodles tossed with vegetables and spicy Manchurian sauce.",
+    "type": "speciality"
+  }
+]
